@@ -6,7 +6,7 @@
 
 ##Description##
 
-Repo for all the project files
+Repo for all the project files. Contruction plans are here.
 
 ##License and General Information
 [License and general info](https://github.com/BasicAirData/Document-Templates/blob/master/general-info.md)
